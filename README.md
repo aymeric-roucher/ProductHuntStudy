@@ -65,11 +65,11 @@ What does it actually take to reach #1, #2, or top 5?
 
 ---
 
-## 3. Predictability: How Stable Is the Target?
+## 3. Predictability: How Many Votes Does #1 Need?
 
-Can you plan for a specific vote target, or is it a coin flip?
+How much does the #1 vote count vary from day to day? P25 = votes #1 got on an "easy" day (25th percentile), P75 = on a "hard" day.
 
-| Day | P25 (Easy) | Median | P75 (Hard) | Range |
+| Day | #1 on Easy Day (P25) | #1 Typical (Median) | #1 on Hard Day (P75) | #1 Range |
 |:---|---:|---:|---:|:---|
 | **Monday** | 818 | 1,106 | 1,397 | 527 - 4,256 |
 | **Tuesday** | 923 | 1,169 | 1,482 | 494 - 3,039 |
@@ -79,7 +79,7 @@ Can you plan for a specific vote target, or is it a coin flip?
 | **Saturday** | 431 | 511 | 644 | 256 - 4,192 |
 | **Sunday** | 488 | 625 | 797 | 224 - 3,486 |
 
-**Insight**: Saturday is the most predictable -- the IQR (P75 - P25) is only 213 votes, vs 559 on Tuesday. You can plan with more confidence on weekends.
+**Insight**: On Saturday, the #1 product typically gets only 511 votes, and the target is the most predictable -- the IQR is only 213 votes, vs 559 on Tuesday. You can plan with more confidence on weekends.
 
 ---
 
