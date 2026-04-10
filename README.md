@@ -119,39 +119,7 @@ Are weekend winners lower quality than weekday winners?
 
 ---
 
-## 6. Same Quality, Different Day: The Controlled Experiment
-
-What happens when we hold quality constant and only vary the day?
-
-### Products rated 7/10 that reached #1:
-
-| Day | N | Avg Votes | Median Votes |
-|:---|---:|---:|---:|
-| **Monday** | 23 | 1,290 | 1,275 |
-| **Tuesday** | 19 | 1,287 | 1,113 |
-| **Wednesday** | 30 | 1,071 | 928 |
-| **Thursday** | 24 | 1,066 | 1,029 |
-| **Friday** | 24 | 880 | 708 |
-| **Saturday** | 23 | 526 | 505 |
-| **Sunday** | 23 | 614 | 588 |
-
-### Products rated 8/10 that reached #1:
-
-| Day | N | Avg Votes | Median Votes |
-|:---|---:|---:|---:|
-| **Monday** | 30 | 1,126 | 1,062 |
-| **Tuesday** | 35 | 1,243 | 1,155 |
-| **Wednesday** | 35 | 1,278 | 1,079 |
-| **Thursday** | 32 | 1,156 | 1,105 |
-| **Friday** | 25 | 888 | 836 |
-| **Saturday** | 23 | 703 | 599 |
-| **Sunday** | 28 | 697 | 679 |
-
-**Insight**: A 7/10 product gets **1,275 votes on Monday but only 505 on Saturday** -- a 2.5x difference for the same quality level. The day doesn't make your product look worse; it just means fewer people see it. A weekend win is a "cheaper" win but an equally valid badge.
-
----
-
-## 7. Product of the Week: Weekend Launches Almost Never Win
+## 6. Product of the Week: Weekend Launches Almost Never Win
 
 Out of 93 complete weeks analyzed:
 
@@ -172,7 +140,7 @@ Out of 93 complete weeks analyzed:
 
 ---
 
-## 8. Master Comparison Table
+## 7. Master Comparison Table
 
 | Day | Launches | Featured | Med #1 | Med #2 | Gap | P25 #1 | P75 #1 | Quality | POTW % |
 |:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
@@ -186,7 +154,7 @@ Out of 93 complete weeks analyzed:
 
 ---
 
-## 9. Strategic Recommendations
+## 8. Strategic Recommendations
 
 ### Launch on Saturday if:
 - Your **primary goal is #1 Product of the Day** badge
